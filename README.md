@@ -12,6 +12,6 @@ This project demonstrates an interactive Tableau dashboard for analyzing Adidas 
 The data for this dashboard was extracted from an Excel file, processed using Tableau's Extract Engine for seamless integration and faster query execution.
 
 **Tools Used**
-****Tableau Desktop:** For designing and building the dashboard.
+**Tableau Desktop:** For designing and building the dashboard.
 **Microsoft Excel:** As the primary data source.
 **Extract Engine:** For improving performance and time consumption.
